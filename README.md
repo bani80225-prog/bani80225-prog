@@ -136,7 +136,7 @@ https://github.com/bani80225-prog/Irctc-Reservation-System
 
 <div align="center">
 
-<a href="https://leetcode.com/your_username/">
+<a href="https://leetcode.com/u/CdQYpSVObh/">
 <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black"/>
 </a>
 
