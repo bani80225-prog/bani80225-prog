@@ -4,19 +4,20 @@
 
 # 👋 Hey, I'm Bani Vig
 
-### 🚀 Java Developer | Spring Boot Learner | Problem Solver
+### 🚀 Java Developer | Spring Boot Learner | DSA Enthusiast
 
 <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=600&size=28&duration=2500&pause=1000&center=true&vCenter=true&width=900&color=38BDF8&lines=Java+Developer;Backend+Engineer+in+Progress;Spring+Boot+Learner;DSA+Problem+Solver;Building+Real+World+Projects"/>
+
 </div>
 
 ---
 
-## 🌟 About Me
+# 💫 About Me
 
 ```java
 class BaniVig {
 
-    String education = "B.Tech Student";
+    String education = "B.Tech CSE Student";
 
     String[] skills = {
         "Java",
@@ -24,6 +25,9 @@ class BaniVig {
         "OOP",
         "Spring Boot",
         "MySQL",
+        "HTML",
+        "CSS",
+        "JavaScript",
         "Git & GitHub"
     };
 
@@ -35,75 +39,99 @@ class BaniVig {
 }
 ```
 
-🎓 B.Tech Student passionate about Software Development
+🎓 B.Tech CSE Student
 
-💻 Exploring Backend Development & Software Engineering
-
-🔥 Solving Data Structures & Algorithms regularly
+💻 Passionate about Software Development
 
 🌱 Learning Spring Boot, REST APIs & Databases
 
-🚀 Building projects to improve real-world skills
+🔥 Solving DSA Problems Regularly
 
-⚡ Always learning and improving every day
+🚀 Building Real-World Projects
+
+⚡ Consistent Learner & Problem Solver
 
 ---
 
-## 🛠 Tech Stack
+# 🛠 Tech Stack
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=java,spring,mysql,c,git,github,vscode,idea,html,css&theme=dark"/>
+<img src="https://skillicons.dev/icons?i=java,spring,mysql,html,css,js,c,git,github,vscode,idea&theme=dark"/>
 
 </div>
 
 ---
 
-## 📈 GitHub Stats
+# 📈 GitHub Analytics
 
 <div align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=bani80225-prog&show_icons=true&theme=tokyonight&hide_border=true"/>
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=bani80225-prog&show_icons=true&theme=github_dark&hide_border=true"/>
 
-<img height="170" src="https://github-readme-streak-stats.herokuapp.com/?user=bani80225-prog&theme=tokyonight&hide_border=true"/>
+<img height="170" src="https://github-readme-streak-stats.herokuapp.com/?user=bani80225-prog&theme=github_dark&hide_border=true"/>
 
 </div>
 
 <div align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bani80225-prog&layout=compact&theme=tokyonight&hide_border=true"/>
-
-</div>
-
----
-
-## 🏆 GitHub Trophies
-
-<div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=bani80225-prog&theme=tokyonight&no-frame=true&row=1&column=7"/>
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bani80225-prog&layout=compact&theme=github_dark&hide_border=true"/>
 
 </div>
 
 ---
 
-## 📊 Contribution Graph
+# 📊 Contribution Graph
 
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=bani80225-prog&theme=tokyo-night&hide_border=true"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=bani80225-prog&theme=github-dark&hide_border=true"/>
 
 </div>
 
 ---
 
-## 🚀 Featured Project
+# 🐍 Contribution Snake
 
-### 🚆 IRCTC Reservation System
+<div align="center">
 
-Console-based Railway Reservation System built using Java and Object-Oriented Programming concepts.
+<img src="https://raw.githubusercontent.com/bani80225-prog/bani80225-prog/output/github-contribution-grid-snake-dark.svg" alt="snake animation"/>
 
-### Features
+</div>
+
+---
+
+# 🚀 Featured Projects
+
+## 🍔 FoodieHub
+
+Modern Food Ordering Website inspired by Swiggy & Zomato.
+
+### ✨ Features
+
+✔ Responsive Design
+
+✔ Food Categories
+
+✔ Add To Cart
+
+✔ Checkout Page
+
+✔ Mobile Friendly UI
+
+✔ Modern User Experience
+
+### 🛠 Tech Stack
+
+HTML • CSS • JavaScript
+
+---
+
+## 🚆 IRCTC Reservation System
+
+Java-based Railway Reservation System built using OOP Concepts.
+
+### ✨ Features
 
 ✔ Ticket Booking
 
@@ -113,12 +141,27 @@ Console-based Railway Reservation System built using Java and Object-Oriented Pr
 
 ✔ OOP Based Design
 
-🔗 Repository:
-https://github.com/bani80225-prog/Irctc-Reservation-System
+### 🛠 Tech Stack
+
+Java • OOP • Collections
 
 ---
 
-## 🧠 Currently Learning
+# 🎯 Current Goals
+
+✔ Master Spring Boot
+
+✔ Build Full Stack Projects
+
+✔ Solve 300+ DSA Problems
+
+✔ Learn System Design
+
+✔ Secure Software Development Internship
+
+---
+
+# 🌱 Currently Learning
 
 ```text
 ✔ Advanced Java
@@ -131,7 +174,27 @@ https://github.com/bani80225-prog/Irctc-Reservation-System
 
 ---
 
-## 💻 Coding Profiles
+# 🏆 GitHub Trophies
+
+<div align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=bani80225-prog&theme=algolia&no-frame=true&row=1&column=7"/>
+
+</div>
+
+---
+
+# 👀 Profile Views
+
+<div align="center">
+
+<img src="https://komarev.com/ghpvc/?username=bani80225-prog&label=Profile%20Views&color=0e75b6&style=for-the-badge"/>
+
+</div>
+
+---
+
+# 💻 Coding Profiles
 
 <div align="center">
 
@@ -147,7 +210,7 @@ https://github.com/bani80225-prog/Irctc-Reservation-System
 
 ---
 
-## 🌐 Connect With Me
+# 🌐 Connect With Me
 
 <div align="center">
 
@@ -173,8 +236,8 @@ https://github.com/bani80225-prog/Irctc-Reservation-System
 
 > "First, solve the problem. Then, write the code."
 
-### ⭐ If you like my work, don't forget to star my repositories!
+⭐ Thanks for visiting my profile!
 
 </div>
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=120&section=footer&color=0:0F2027,50:203A43,100:2C5364"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=120&section=footer&color=0:0F172A,50:1E293B,100:334155"/>
