@@ -1,13 +1,12 @@
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=280&color=0:0F2027,50:203A43,100:2C5364&text=Bani%20Vig&fontSize=65&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Java%20Developer%20|%20Backend%20Learner%20|%20DSA%20Enthusiast&descAlignY=58&descSize=20"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=280&color=0:0F172A,50:1E293B,100:334155&text=Bani%20Vig&fontSize=70&fontColor=38BDF8&animation=fadeIn&fontAlignY=38&desc=Java%20Developer%20|%20Backend%20Learner%20|%20Problem%20Solver&descAlignY=58&descSize=22"/>
 
 # 👋 Hey, I'm Bani Vig
 
 ### 🚀 Java Developer | Spring Boot Learner | Problem Solver
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=28&duration=2500&pause=1000&center=true&vCenter=true&width=900&color=00F7FF&lines=Java+Developer;Spring+Boot+Learner;DSA+Enthusiast;Backend+Developer;Future+Software+Engineer" />
-
+<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=600&size=28&duration=2500&pause=1000&center=true&vCenter=true&width=900&color=38BDF8&lines=Java+Developer;Backend+Engineer+in+Progress;Spring+Boot+Learner;DSA+Problem+Solver;Building+Real+World+Projects"/>
 </div>
 
 ---
